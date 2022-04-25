@@ -17,15 +17,15 @@ Structure of the course:
 
 * 2022/04/18 - Presentation and Git
 * 2022/04/20 - Markdown and Python basics I
-* 2022/04/22 - Python basics I
-* 2022/04/23 - Python basics II
-* 2022/04/25 - Python basics III
-* 2022/04/27 - Flow controls I
-* 2022/05/04 - Flow controls II
-* 2022/05/06 - Collections
-* 2022/05/07 - Functions I
-* 2022/05/09 - Functions II
-* 2022/05/11 - Object Oriented Programming (OOP)
+* 2022/04/22 - Python basics I and Python basics II
+* 2022/04/23 - Flow controls
+* 2022/04/25 - Flow controls and exercises Python basics 
+* 2022/04/27 - Exercises Flow controls
+* 2022/05/04 - Collections
+* 2022/05/06 - Functions I
+* 2022/05/07 - Exercises Collections and Functions I
+* 2022/05/09 - Functions II and Object Oriented Programming (OOP)
+* 2022/05/11 - Exercises Functions II and Object Oriented Programming (OOP)
 * 2022/05/14 - Python utils and final exercise
 
 ### DATA ANALYSIS
