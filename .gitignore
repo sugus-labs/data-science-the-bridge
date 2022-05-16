@@ -1,7 +1,8 @@
 # Resolved exercises / exams
-sketch-exam-resolved.ipynb
 exam/
-secrets.py
+config.py
+*resolved.ipynb
+*resolved.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
