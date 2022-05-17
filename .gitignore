@@ -1,8 +1,9 @@
 # Resolved exercises / exams
-exam/
+#exam/
 config.py
 *resolved.ipynb
 *resolved.py
+0-mathematics-for-ds/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
